@@ -4,19 +4,20 @@
 
 Много похожих скриншотов демонтрируют работу фильтров расходов по разным параметрам, а также возможность удаления расходов.
 
-<img width="1097" alt="Снимок экрана 2024-04-08 в 23 35 51 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/925b83b5-6375-4473-a24d-2a6f5e6ef8fe">
-<img width="1174" alt="Снимок экрана 2024-04-08 в 23 35 33 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/b24d13d0-f68c-418b-9244-75ea3da6dff4">
-<img width="1069" alt="Снимок экрана 2024-04-08 в 23 35 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/b8591099-e098-4437-933d-61e6ec2b8d5d">
-<img width="1070" alt="Снимок экрана 2024-04-08 в 23 34 14 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/cff4fdc2-38f3-4890-b99d-e25871493fcb">
-<img width="1030" alt="Снимок экрана 2024-04-08 в 23 34 08 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/336a9f4f-d72e-4f46-9242-ec072ba4cd0f">
-<img width="1102" alt="Снимок экрана 2024-04-08 в 23 34 03 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/42051bb6-97bf-46ee-b288-b7e5f19a96c4">
-<img width="1187" alt="Снимок экрана 2024-04-08 в 23 33 27 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/6001dc07-77b4-4d03-b64f-5f06dd1c48ca">
-<img width="1121" alt="Снимок экрана 2024-04-08 в 23 33 22 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/18ab6ec8-9885-490b-9d1b-976ab89261f5">
-<img width="1180" alt="Снимок экрана 2024-04-08 в 23 32 57 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/8ab65ff3-facd-47dd-adc1-746e7273dc0a">
-<img width="1172" alt="Снимок экрана 2024-04-08 в 23 32 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/529f051b-d02a-4964-a842-b6eae29575d6">
-<img width="1175" alt="Снимок экрана 2024-04-08 в 23 30 33 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/92f1e68f-3297-4546-b3f7-bbe01bc60864">
-<img width="1135" alt="Снимок экрана 2024-04-08 в 23 29 18 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/3ef9b7e4-4de1-42ea-9922-71a7ec7bdee1">
-<img width="1175" alt="Снимок экрана 2024-04-08 в 23 29 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/bd55b85e-b430-4aa4-a4e3-cf4753d89685">
-<img width="870" alt="Снимок экрана 2024-04-08 в 23 28 28 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/9fdccc8c-1dfb-40b0-8b42-180899361cbf">
-<img width="907" alt="Снимок экрана 2024-04-08 в 23 27 49 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/68f1dce7-3121-4c80-b6ed-b4560eb97fff">
-<img width="1031" alt="Снимок экрана 2024-04-08 в 23 26 46 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/753fbfac-f472-40a9-9e69-3a041ab0fdf4">
+
+<img width="1031" alt="Снимок экрана 2024-04-08 в 23 26 46 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/5daf0424-286d-42b5-97e9-2081e9751211">
+<img width="907" alt="Снимок экрана 2024-04-08 в 23 27 49 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/e24aa538-ff97-4bd7-9dda-a8ecd4a0db63">
+<img width="870" alt="Снимок экрана 2024-04-08 в 23 28 28 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/a66aedd8-0001-4ad2-9411-09c2dfe6b07c">
+<img width="1175" alt="Снимок экрана 2024-04-08 в 23 29 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/c1ac7822-7703-4719-b1f0-1ca97d37467f">
+<img width="1135" alt="Снимок экрана 2024-04-08 в 23 29 18 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/54a47ee1-ee1d-4084-9497-f5cb4e5e3cc0">
+<img width="1175" alt="Снимок экрана 2024-04-08 в 23 30 33 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/d6f603ed-398f-43ec-854f-17f03fb89bd6">
+<img width="1172" alt="Снимок экрана 2024-04-08 в 23 32 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/df8ca736-712e-45a6-b9e1-f701382d230a">
+<img width="1180" alt="Снимок экрана 2024-04-08 в 23 32 57 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/696d0cc1-fdf8-4f8b-a7d5-812f90d705f2">
+<img width="1121" alt="Снимок экрана 2024-04-08 в 23 33 22 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/819e1949-d883-434f-b962-ec892ed067b8">
+<img width="1187" alt="Снимок экрана 2024-04-08 в 23 33 27 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/2a89e41f-1d39-4ac2-b11e-8477b1776278">
+<img width="1102" alt="Снимок экрана 2024-04-08 в 23 34 03 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/20ca61b4-57ff-4512-88af-26d2b11c4ded">
+<img width="1030" alt="Снимок экрана 2024-04-08 в 23 34 08 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/a7d8412c-befa-478b-8f55-0ffbdb408334">
+<img width="1097" alt="Снимок экрана 2024-04-08 в 23 35 51 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/bd18cc15-c085-4562-9808-affa7cfaa2ff">
+<img width="1174" alt="Снимок экрана 2024-04-08 в 23 35 33 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/94d38444-180a-42f5-90f8-d69ec967d024">
+<img width="1069" alt="Снимок экрана 2024-04-08 в 23 35 02 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/f7cf61fe-8e98-4830-ab65-ff10140a67c6">
+<img width="1070" alt="Снимок экрана 2024-04-08 в 23 34 14 (2)" src="https://github.com/kravchenkomarie/finances/assets/95357371/28eb9932-f448-4e56-b182-8eb7ae9597ef">
